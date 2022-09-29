@@ -2,3 +2,4 @@ Good morning.
 Good afternoon.
 Good evening.
 Hello.
+good bye.
